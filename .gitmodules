@@ -1,9 +1,12 @@
 [submodule "users-service"]
     path = users-service
-    url = https://github.com/GigaGitCoder/JavaUsers
-[submodule "library-service"]
-    path = library-service
-    url = https://github.com/GigaGitCoder/JavaLibrary
+    url = https://github.com/GigaGitCoder/JavaUserService
+[submodule "book-service"]
+	path = book-service
+	url = https://github.com/GigaGitCoder/JavaBookService
 [submodule "site"]
-    path = site
-    url = https://github.com/GigaGitCoder/JavaSite
+	path = site
+	url = https://github.com/GigaGitCoder/JavaLibrarySite
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/GigaGitCoder/JavaUserService
