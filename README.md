@@ -1,3 +1,9 @@
+# Gitmodules
+
+- [JavaBookService](https://github.com/GigaGitCoder/JavaBookService)
+- [JavaUserService](https://github.com/GigaGitCoder/JavaUserService)
+- [JavaLibrarySite](https://github.com/GigaGitCoder/JavaLibrarySite)
+
 # Quick Start
 
 - Linux/macOS:
